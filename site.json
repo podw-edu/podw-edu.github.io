@@ -1,11 +1,11 @@
 {
-  "site_name": "First Name",
-  "site_type": "Current Title",
-  "tagline": "Topic A and Topic B",
+  "site_name": "Po Dw",
+  "site_type": "Code Tester",
+  "tagline": "been there done that",
   "layout": "classic",
-  "profile_image": "assets/images/profile-placeholder.svg",
+  "profile_image": "assets/images/anime.jpeg",
   "hero_image": "assets/images/hero-ocean.svg",
-  "footer_text": "© 2026 First Name",
+  "footer_text": "© 2026 Po Dw",
   "pages": [
     {
       "slug": "index",
